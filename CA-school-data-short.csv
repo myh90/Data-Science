@@ -1,0 +1,421 @@
+county,district,students,computers,reading score,math score
+Alameda,Sunol Glen Unified,195,67,692,690
+Butte,Manzanita Elementary,240,101,661,662
+Butte,Thermalito Union Elementary,1550,169,636,651
+Butte,Golden Feather Union Elementary,243,85,652,644
+Butte,Palermo Union Elementary,1335,171,642,640
+Fresno,Burrel Union Elementary,137,25,606,605
+San Joaquin,Holt Union Elementary,195,28,605,609
+Kern,Vineland Elementary,888,66,606,613
+Fresno,Orange Center Elementary,379,35,609,616
+Sacramento,Del Paso Heights Elementary,2247,0,612,613
+Merced,Le Grand Union Elementary,446,86,613,619
+Fresno,West Fresno Elementary,987,56,617,616
+Tulare,Allensworth Elementary,103,25,613,620
+Tulare,Sunnyside Union Elementary,487,0,610,623
+Tulare,Woodville Elementary,649,31,612,621
+Tulare,Pixley Union Elementary,852,80,615,620
+Kern,Lost Hills Union Elementary,491,100,612,624
+Kern,Buttonwillow Union Elementary,421,50,615,622
+Los Angeles,Lennox Elementary,6880,960,619,621
+Kern,Lamont Elementary,2688,139,621,619
+Imperial,Westmorland Union Elementary,440,69,616,625
+Tulare,Pleasant View Elementary,475,53,620,623
+Kern,Wasco Union Elementary,2538,169,623,621
+Tulare,Alta Vista Elementary,476,0,621,623
+Merced,Livingston Union Elementary,2357,216,620,626
+Tulare,Woodlake Union Elementary,1588,198,625,621
+Monterey,Alisal Union Elementary,7306,742,620,626
+Kern,Arvin Union Elementary,2601,269,617,630
+Tulare,Terra Bella Union Elementary,847,67,620,627
+Tulare,Tipton Elementary,452,55,628,620
+San Diego,San Ysidro Elementary,4142,569,620,629
+Monterey,Soledad Unified,2102,224,623,627
+Los Angeles,Mountain View Elementary,10012,721,621,630
+Monterey,King City Union Elementary,2488,202,626,626
+San Bernardino,Ontario-Montclair Elementary,25151,1713,625,627
+Los Angeles,Los Nietos Elementary,2267,177,625,628
+Merced,Winton Elementary,1657,204,624,630
+Fresno,Raisin City Elementary,284,18,629,625
+San Mateo,Ravenswood City Elementary,5370,562,624,630
+Kern,Richland-Lerdo Union Elementary,2471,275,628,627
+Ventura,Oxnard Elementary,15386,1762,628,629
+Merced,El Nido Elementary,184,40,622,635
+Kern,Fairfax Elementary,1217,78,629,628
+Kern,Delano Union Elementary,6219,571,621,636
+Riverside,Perris Elementary,4258,324,627,631
+Los Angeles,Valle Lindo Elementary,1235,175,630,629
+Santa Clara,Alum Rock Union Elementary,16244,1423,630,631
+Kern,Edison Elementary,814,85,632,629
+Kern,Bakersfield City Elementary,27176,3324,632,630
+Santa Clara,Franklin-McKinley Elementary,10696,1306,629,633
+Los Angeles,Hawthorne Elementary,8935,786,628,634
+Madera,Chowchilla Elementary,1600,242,636,627
+Monterey,Salinas City Elementary,9028,669,633,631
+Santa Barbara,Santa Maria-Bonita Elementary,10625,896,630,634
+Los Angeles,Whittier City Elementary,7151,560,634,630
+Los Angeles,Eastside Union Elementary,2404,202,634,631
+Los Angeles,Lawndale Elementary,5804,480,631,633
+Sacramento,Robla Elementary,2253,196,638,627
+Monterey,Santa Rita Union Elementary,2807,152,637,628
+Ventura,Rio Elementary,3074,249,633,633
+Tulare,Strathmore Union Elementary,723,45,629,637
+Sacramento,North Sacramento Elementary,5138,560,630,636
+Orange,Anaheim Elementary,20927,1048,630,637
+Kings,Lemoore Union Elementary,3017,496,634,633
+Kings,Armona Union Elementary,957,149,635,633
+Kern,Beardsley Elementary,1639,287,638,630
+Los Angeles,South Whittier Elementary,4340,284,632,636
+Kings,Hanford Elementary,5079,585,638,631
+San Diego,National Elementary,6639,505,632,637
+Sonoma,Roseland Elementary,1154,129,637,632
+Kern,Di Giorgio Elementary,237,13,632,637
+Los Angeles,Keppel Union Elementary,2987,273,638,631
+Kings,Lakeside Union Elementary,499,94,636,634
+Merced,Merced City Elementary,11474,1248,633,636
+Santa Barbara,Guadalupe Union Elementary,1088,107,631,639
+San Bernardino,Cucamonga Elementary,2660,259,638,632
+Contra Costa,Knightsen Elementary,353,8,637,634
+Humboldt,Rio Dell Elementary,329,37,644,626
+Siskiyou,Montague Elementary,252,32,641,630
+Siskiyou,McCloud Union Elementary,175,31,635,637
+Ventura,Santa Paula Elementary,3835,897,633,638
+Fresno,West Park Elementary,314,8,637,635
+Merced,Atwater Elementary,4458,445,633,639
+Merced,Weaver Union Elementary,1313,112,634,638
+Fresno,Pacific Union Elementary,474,36,635,638
+San Bernardino,Lucerne Valley Unified,1114,277,645,628
+Riverside,Romoland Elementary,1358,178,632,641
+Los Angeles,El Monte City Elementary,11629,1015,632,641
+Kern,Greenfield Union Elementary,6195,1261,636,638
+Tulare,Palo Verde Union Elementary,499,35,636,638
+Sacramento,Elverta Joint Elementary,417,27,638,636
+Lake,Lucerne Elementary,300,55,641,634
+Santa Clara,Luther Burbank Elementary,457,50,645,630
+Butte,Bangor Union Elementary,146,34,646,630
+San Mateo,Bayshore Elementary,460,71,633,643
+Tulare,Oak Valley Union Elementary,354,28,637,639
+Los Angeles,Wilsona Elementary,1841,315,640,636
+Imperial,Brawley Elementary,3760,717,636,640
+Imperial,Meadows Union Elementary,500,70,630,646
+Los Angeles,Little Lake City Elementary,5112,383,639,638
+Kern,Pond Union Elementary,146,28,638,640
+Kern,Taft City Elementary,2141,134,637,641
+Sutter,Brittan Elementary,610,144,640,638
+Mendocino,Arena Union Elementary,337,26,643,636
+San Bernardino,Adelanto Elementary,4501,597,640,639
+San Benito,Hollister School District,5718,313,641,638
+Los Angeles,Palmdale Elementary,19402,1182,642,638
+Butte,Oroville City Elementary,3401,560,642,638
+Kern,Standard Elementary,2621,397,641,638
+Ventura,Briggs Elementary,426,87,634,646
+Fresno,Monroe Elementary,205,24,644,637
+Los Angeles,Lancaster Elementary,13668,1321,640,640
+Madera,Alview-Dairyland Union Elementary,342,98,638,643
+Orange,Magnolia Elementary,6518,499,639,643
+Tulare,Liberty Elementary,239,30,645,637
+Santa Clara,Mt. Pleasant Elementary,2911,281,640,642
+Imperial,El Centro Elementary,6272,1338,639,644
+San Diego,South Bay Union Elementary,10218,1435,639,644
+Shasta,Cascade Union Elementary,1735,222,641,642
+Tulare,Kings River Union Elementary,474,96,639,645
+Tehama,Gerber Union Elementary,544,145,642,643
+Tulare,Exeter Union Elementary,1987,283,637,647
+Fresno,American Union Elementary,418,50,640,645
+Monterey,San Antonio Union Elementary,196,40,653,633
+Tulare,Burton Elementary,2208,92,642,644
+Riverside,Nuview Union Elementary,1255,165,643,644
+Sonoma,Bellevue Union Elementary,1469,65,639,647
+Los Angeles,Garvey Elementary,7114,680,639,648
+Tehama,Corning Union Elementary,1962,170,642,645
+San Mateo,Jefferson Elementary,7761,658,644,643
+Siskiyou,Big Springs Union Elementary,216,47,653,634
+Kern,General Shafter Elementary,224,31,634,654
+Stanislaus,Turlock Joint Elementary,7887,1004,646,642
+Tuolumne,Twain Harte-Long Barn Union Elementary,752,0,652,636
+San Mateo,Redwood City Elementary,9328,1719,645,644
+El Dorado,Camino Union Elementary,548,35,652,637
+Merced,Plainsburg Union Elementary,104,19,650,639
+San Joaquin,Banta Elementary,275,4,643,646
+Fresno,Washington Colony Elementary,443,52,644,645
+Sacramento,Rio Linda Union Elementary,10337,1268,646,643
+Stanislaus,Chatom Union Elementary,806,36,645,644
+Merced,Merced River Union Elementary,227,25,650,640
+Ventura,Hueneme Elementary,8416,1333,643,647
+Humboldt,Cuddeback Union Elementary,149,30,657,634
+Humboldt,Blue Lake Union Elementary,220,48,658,633
+San Diego,Lemon Grove Elementary,4612,601,648,643
+Lake,Upper Lake Union Elementary,590,71,645,646
+Humboldt,Peninsula Union Elementary,133,25,644,647
+Ventura,Ocean View Elementary,2440,116,646,646
+Tehama,Reeds Creek Elementary,133,0,653,640
+Sacramento,Arcohe Union Elementary,519,65,651,642
+San Joaquin,New Jerusalem Elementary,222,30,643,650
+Siskiyou,Dunsmuir Elementary,285,36,642,651
+Stanislaus,Stanislaus Union Elementary,3129,471,648,645
+Fresno,Kingsburg Joint Union Elementary,2019,167,649,644
+Orange,Buena Park Elementary,5620,316,644,649
+Orange,Westminster Elementary,9775,1218,646,648
+Kings,Island Union Elementary,246,38,648,646
+Tulare,Tulare City Elementary,7210,800,643,652
+San Diego,Chula Vista Elementary,21338,2889,645,650
+Shasta,Black Butte Union Elementary,477,27,651,644
+Merced,McSwain Union Elementary,727,50,649,646
+Sutter,Franklin Elementary,374,46,652,644
+San Diego,Escondido Union Elementary,18255,2001,645,651
+Los Angeles,East Whittier City Elementary,8787,1058,648,648
+Kern,Rio Bravo-Greeley Union Elementary,797,60,649,648
+Sutter,Marcum-Illinois Union Elementary,140,40,652,645
+San Diego,Vallecitos Elementary,235,51,643,654
+San Bernardino,Victor Elementary,8294,1295,645,653
+Orange,Savanna Elementary,2409,354,646,652
+Sonoma,West Side Union Elementary,150,16,655,643
+Shasta,Enterprise Elementary,3981,606,650,649
+Tehama,Red Bluff Union Elementary,2326,345,651,648
+Tuolumne,Jamestown Elementary,501,163,653,647
+Siskiyou,Weed Union Elementary,470,48,655,646
+Humboldt,South Bay Union Elementary,575,59,655,647
+Contra Costa,Brentwood Union Elementary,3519,789,655,646
+Tuolumne,Summerville Elementary,474,61,654,648
+Placer,Ophir Elementary,223,60,652,650
+Sonoma,Montgomery Elementary,92,22,656,646
+Sonoma,Santa Rosa Elementary,4971,500,653,649
+Stanislaus,Salida Union Elementary,2617,226,652,651
+Shasta,Shasta Union Elementary,242,32,654,648
+Humboldt,Fortuna Union Elementary,780,75,662,641
+Tulare,Rockford  Elementary,324,50,647,656
+Glenn,Plaza Elementary,140,25,654,649
+Sonoma,Monte Rio Union Elementary,181,26,652,652
+Lassen,Janesville Union Elementary,516,65,656,648
+Imperial,Magnolia Union Elementary,108,25,648,656
+Lassen,Shaffer Union Elementary,419,58,656,648
+Orange,Fullerton Elementary,12567,1099,652,653
+Sonoma,Cinnabar Elementary,287,65,655,650
+Santa Barbara,Santa Barbara Elementary,6201,634,651,654
+Humboldt,Rohnerville Elementary,577,134,657,648
+Sutter,Pleasant Grove Joint Union Elementary,170,41,660,645
+Shasta,Mountain Union Elementary,164,36,655,650
+Kern,South Fork Union Elementary,382,75,653,652
+San Diego,Jamul-Dulzura Union Elementary,1221,250,657,649
+Santa Cruz,Live Oak Elementary,2214,213,656,650
+Riverside,Menifee Union Elementary,4523,409,654,653
+Kern,Lakeside Union Elementary,793,49,652,655
+Santa Clara,Whisman Elementary,1678,254,656,652
+Imperial,McCabe Union Elementary,536,35,653,654
+San Joaquin,Lammersville Elementary,307,36,654,653
+Tehama,Lassen View Union Elementary,347,56,656,652
+Humboldt,Loleta Union Elementary,168,30,656,652
+Shasta,Junction Elementary,532,81,657,651
+Los Angeles,Rosemead Elementary,3272,374,651,657
+Nevada,Grass Valley Elementary,2045,268,658,651
+Tulare,Buena Vista Elementary,156,7,660,649
+Kern,Kernville Union Elementary,1129,164,655,654
+Sacramento,Galt Joint Union Elementary,3669,500,653,657
+San Benito,Southside Elementary,157,19,654,656
+San Diego,Lakeside Union Elementary,4928,618,654,656
+Sutter,Nuestro Elementary,103,13,662,648
+Fresno,Alvina Elementary,175,17,650,660
+Contra Costa,Oakley Union Elementary,4153,241,657,653
+Siskiyou,Etna Union Elementary,280,67,660,650
+San Joaquin,Jefferson Elementary,865,96,661,650
+Santa Clara,Berryessa Union Elementary,8735,1120,655,655
+Kings,Kit Carson Union Elementary,412,72,653,658
+Stanislaus,Sylvan Union Elementary,6373,624,658,653
+San Joaquin,Oak View Union Elementary,332,73,653,658
+Placer,Auburn Union Elementary,2903,192,662,649
+San Benito,North County Joint Union Elementary,565,60,652,660
+El Dorado,Pioneer Union Elementary,586,78,662,650
+San Bernardino,Central Elementary,5068,626,656,656
+Shasta,Pacheco Union Elementary,859,118,654,659
+Nevada,Chicago Park Elementary,145,20,658,655
+San Mateo,Brisbane Elementary,649,155,659,654
+Kings,Central Union Elementary,1789,435,655,658
+Shasta,Happy Valley Union Elementary,775,50,662,652
+Calaveras,Mark Twain Union Elementary,777,148,663,650
+Marin,San Rafael City Elementary,3518,419,657,657
+San Diego,Cajon Valley Union Elementary,19294,2401,658,656
+Santa Clara,Campbell Union Elementary,7661,1158,657,657
+Sutter,Browns Elementary,158,34,661,653
+Nevada,Clear Creek Elementary,117,42,665,650
+Humboldt,Trinidad Union Elementary,160,37,673,642
+Sonoma,Guerneville Elementary,511,30,664,651
+San Mateo,San Bruno Park Elementary,2770,296,660,656
+Tehama,Antelope Elementary,551,46,660,655
+Orange,Centralia Elementary,5205,474,655,661
+San Bernardino,Etiwanda Elementary,6437,622,659,657
+Los Angeles,Wiseburn Elementary,1712,122,657,659
+Humboldt,Scotia Union Elementary,370,56,664,653
+San Bernardino,Mountain View Elementary,3182,328,655,663
+San Luis Obispo,Pleasant Valley Joint Union Elementary,139,32,661,656
+Santa Clara,Oak Grove Elementary,11855,1507,655,663
+El Dorado,Pollock Pines Elementary,1068,129,662,656
+Los Angeles,Castaic Union Elementary,2295,224,658,660
+Inyo,Bishop Union Elementary,1510,141,663,656
+Santa Barbara,Buellton Union Elementary,579,60,660,659
+Madera,Chawanakee Jt. Elementary,1012,140,661,659
+Siskiyou,Yreka Union Elementary,1212,107,660,659
+Sonoma,Alexander Valley Union Elementary,119,23,662,658
+Nevada,Twin Ridges Elementary,590,78,673,647
+Tulare,Sundale Union Elementary,546,60,660,661
+Tulare,Three Rivers Union Elementary,248,51,668,653
+Tuolumne,Columbia Union Elementary,461,150,667,655
+Los Angeles,Westside Union Elementary,6312,496,662,660
+Merced,Ballico-Cressey Elementary,285,62,661,662
+San Mateo,Millbrae Elementary,2325,302,662,661
+Santa Clara,Evergreen Elementary,11885,1790,659,664
+Sonoma,Harmony Union Elementary,564,46,672,651
+Kern,Panama Buena Vista Union Elementary,12380,1671,660,664
+San Mateo,Laguna Salada Union Elementary,3772,529,665,658
+Tuolumne,Sonora Elementary,895,70,663,661
+Placer,Roseville City Elementary,5714,489,664,660
+Stanislaus,Gratton Elementary,105,16,663,661
+Lassen,Susanville Elementary,1449,125,660,664
+Shasta,Bella Vista Elementary,510,95,663,662
+Tulare,Columbine Elementary,160,39,651,673
+Los Angeles,Hughes-Elizabeth Lakes Union Elementary,433,50,665,660
+Santa Clara,Mountain View Elementary,3186,411,664,662
+Los Angeles,Sulphur Springs Union Elementary,5010,576,662,663
+Sonoma,Forestville Union Elementary,717,100,669,656
+Kern,Rosedale Union Elementary,3548,335,658,667
+Shasta,Columbia Elementary,868,78,662,663
+Placer,Colfax Elementary,507,60,667,658
+Siskiyou,Mt. Shasta Union Elementary,822,105,668,658
+Sonoma,Piner-Olivet Union Elementary,1792,143,667,659
+Madera,Bass Lake Joint Elementary,1202,190,664,663
+Humboldt,Cutten Elementary,515,58,660,667
+El Dorado,Placerville Union Elementary,1354,263,666,661
+Sonoma,Wright Elementary,1252,113,659,668
+Tehama,Evergreen Union Elementary,823,127,658,670
+Sonoma,Old Adobe Union Elementary,2231,258,666,662
+Sonoma,Wilmar Union Elementary,271,81,669,659
+Placer,Ackerman Elementary,309,85,671,657
+Santa Cruz,Santa Cruz City Elementary,3005,308,667,662
+Humboldt,Arcata Elementary,966,114,674,655
+San Bernardino,Alta Loma Elementary,7710,814,663,665
+Placer,Foresthill Union Elementary,762,54,663,666
+El Dorado,Mother Lode Union Elementary,1708,206,666,664
+Orange,Ocean View Elementary,9850,1113,664,666
+Glenn,Lake Elementary,129,10,668,662
+San Mateo,San Mateo-Foster City Elementary,10619,1150,666,664
+Santa Barbara,Goleta Union Elementary,4521,494,667,663
+San Bernardino,Helendale Elementary,580,114,656,674
+Sonoma,Petaluma City Elementary,2569,326,670,661
+Santa Clara,Sunnyvale Elementary,6022,756,664,667
+Santa Barbara,College Elementary,670,47,670,662
+San Diego,La Mesa-Spring Valley,14708,1962,665,667
+Orange,Huntington Beach City Elementary,6601,706,668,664
+Santa Barbara,Solvang Elementary,675,87,669,663
+Santa Cruz,Soquel Elementary,2458,193,667,665
+Glenn,Capay Joint Union Elementary,144,14,672,660
+Sonoma,Gravenstein Union Elementary,573,48,671,661
+Nevada,Pleasant Valley Elementary,721,82,669,664
+Kings,Pioneer Union Elementary,992,160,671,662
+San Diego,Santee Elementary,8432,0,664,670
+Lassen,Johnstonville Elementary,244,15,672,661
+Ventura,Pleasant Valley Elementary,7116,785,668,666
+Tuolumne,Curtis Creek Elementary,830,95,662,671
+Siskiyou,Fort Jones Union Elementary,160,38,667,667
+Sonoma,Mark West Union Elementary,1588,220,671,662
+San Diego,Alpine Union Elementary,2272,307,668,667
+Sonoma,Sebastopol Union Elementary,1425,65,670,665
+Humboldt,Freshwater Elementary,245,30,672,663
+Kern,Norris Elementary,1349,259,667,668
+Tulare,Springville Union Elementary,400,65,669,666
+Santa Clara,Moreland Elementary,4632,637,669,667
+Kern,Maple Elementary,224,15,661,676
+Kings,Kings River-Hardwick Union Elementary,576,92,666,671
+San Diego,Julian Union Elementary,451,75,673,665
+San Diego,Cardiff Elementary,900,145,669,669
+Tulare,Saucelito Elementary,118,10,669,669
+San Diego,Bonsall Union Elementary,1457,0,666,672
+Orange,Cypress Elementary,4734,586,666,672
+Los Angeles,Lowell Joint Elementary,3303,379,666,672
+Los Angeles,Newhall Elementary,6055,540,669,670
+Marin,Lagunitas Elementary,424,39,681,658
+Santa Clara,Cambrian Elementary,2801,615,673,665
+Tehama,Richfield Elementary,187,37,665,674
+Humboldt,Fieldbrook Elementary,129,17,670,670
+San Diego,Dehesa Elementary,188,41,673,667
+Shasta,Cottonwood Union Elementary,1212,116,669,671
+Kern,Fruitvale Elementary,2596,249,669,671
+Santa Clara,Union Elementary,4925,753,673,669
+Orange,Fountain Valley Elementary,6257,930,671,671
+El Dorado,Gold Oak Union Elementary,868,122,675,668
+El Dorado,Buckeye Union Elementary,3787,934,675,668
+Placer,Rocklin Unified,6423,855,671,672
+El Dorado,Gold Trail Union Elementary,678,47,678,666
+Humboldt,Hydesville Elementary,162,23,680,664
+Los Angeles,Saugus Union Elementary,8529,834,669,675
+Placer,Loomis Union Elementary,1862,231,673,671
+Placer,Placer Hills Union Elementary,1452,183,680,664
+Sonoma,Dunham Elementary,155,32,672,672
+San Mateo,San Carlos Elementary,2536,343,676,668
+Nevada,Ready Springs Union Elementary,567,103,674,670
+Madera,Coarsegold Union Elementary,953,135,668,677
+San Luis Obispo,Cayucos Elementary,296,42,675,670
+Lassen,Richmond Elementary,198,24,673,672
+Fresno,Clay Joint Elementary,218,49,669,676
+Sonoma,Waugh Elementary,734,117,676,669
+Sonoma,Two Rock Union Elementary,189,50,679,667
+San Mateo,Belmont-Redwood Shores Elementary,2528,482,675,672
+El Dorado,Rescue Union Elementary,2987,290,676,671
+Placer,Alta-Dutch Flat Union Elementary,208,21,681,667
+San Diego,San Pasqual Union Elementary,379,29,671,677
+El Dorado,Latrobe Elementary,145,27,671,677
+Nevada,Union Hill Elementary,706,103,676,673
+Sonoma,Twin Hills Union Elementary,878,105,681,670
+Humboldt,Pacific Union Elementary,594,75,683,668
+Trinity,Douglas City Elementary,139,40,680,672
+Nevada,Pleasant Ridge Union Elementary,2089,318,674,679
+Placer,Newcastle Elementary,326,42,673,680
+Ventura,Mesa Union Elementary,516,50,681,673
+Trinity,Weaverville Elementary,449,50,673,681
+Shasta,North Cow Creek Elementary,297,70,679,676
+Nevada,Nevada City Elementary,1579,165,679,677
+Humboldt,Jacoby Creek Elementary,383,49,683,673
+Sonoma,Fort Ross Elementary,81,14,685,672
+San Diego,Encinitas Union Elementary,5259,701,679,679
+Marin,Dixie Elementary,1960,223,684,675
+Santa Clara,Lakeside Joint Elementary,151,31,677,682
+Los Angeles,Hermosa Beach City Elementary,946,310,683,676
+Sonoma,Rincon Valley Union Elementary,2707,300,679,681
+Monterey,Washington Union Elementary,919,141,680,679
+Sonoma,Bennett Valley Union Elementary,945,216,686,674
+Santa Clara,Loma Prieta Joint Union Elemen,738,220,684,677
+Sonoma,Kenwood Elementary,164,35,683,680
+Sonoma,Liberty Elementary,167,29,681,682
+Stanislaus,Knights Ferry Elementary,125,25,689,675
+Marin,Kentfield Elementary,1091,113,690,674
+Santa Barbara,Ballard Elementary,134,27,682,683
+Sonoma,Oak Grove Union Elementary,600,55,680,685
+Marin,Ross Valley Elementary,1803,283,686,680
+Santa Cruz,Mountain Elementary,158,15,687,678
+San Mateo,Burlingame Elementary,2392,439,682,684
+Shasta,Grant Elementary,526,33,685,682
+Santa Cruz,Happy Valley Elementary,141,44,680,688
+Santa Cruz,Bonny Doon Union Elementary,235,30,689,680
+Contra Costa,Walnut Creek Elementary,3280,406,682,687
+Santa Barbara,Hope Elementary,1254,0,686,684
+Marin,Larkspur Elementary,948,155,692,680
+Santa Clara,Cupertino Union Elementary,15228,2232,683,690
+Santa Cruz,Pacific Elementary,81,21,694,681
+Santa Clara,Los Gatos Union Elementary,2768,540,692,687
+Santa Barbara,Montecito Union Elementary,535,84,694,689
+San Diego,Solana Beach Elementary,2542,404,688,695
+San Mateo,Menlo Park City Elementary,1940,265,694,690
+Marin,Reed Union Elementary,1059,272,696,692
+Marin,Mill Valley Elementary,2340,403,694,695
+Contra Costa,Lafayette Elementary,3469,496,698,692
+San Diego,Del Mar Union Elementary,2106,300,695,695
+San Mateo,Woodside Elementary,478,112,701,689
+Contra Costa,Moraga Elementary,1885,241,697,696
+Contra Costa,Orinda Union Elementary,2422,466,699,697
+San Mateo,Hillsborough City Elementary,1318,412,695,701
+Santa Barbara,Cold Spring Elementary,220,22,693,704
+San Mateo,Portola Valley Elementary,687,209,698,700
+Santa Clara,Saratoga Union Elementary,2341,286,699,702
+San Mateo,Las Lomitas Elementary,984,195,701,708
+Santa Clara,Los Altos Elementary,3724,721,704,710
+Ventura,Somis Union Elementary,441,45,648,642
+Yuba,Plumas Elementary,101,14,668,677
+Yuba,Wheatland Elementary,1778,313,661,651
