@@ -1,0 +1,26 @@
+From Ian Stewart's (as the Brits say:) lovely book Professor Stewart's Hoard of Mathematical Treasures:
+
+    Proof by Contradiction: ‘This theorem contradicts a well-known result due to Isaac Newton.’
+    Proof by Metacontradiction: ‘We prove that a proof exists. To do so, assume that there is no proof … ‘
+    Proof by Deferral: ‘We’ll prove this next week.’
+    Proof by Cyclic Deferral: ‘As we proved last week …’
+    Proof by Indefinite Deferral: ‘As I said last week, we’ll prove this next week.’
+    Proof by Intimidation: ‘As any fool can see, the proof is obviously trivial.’
+    Proof by Handwaving: ‘Self-explanatory.’ (Most effective in seminars and conference talks.)
+    Proof by Vigorous Handwaving: More tiring, but more effective.
+    Proof by Over-optimistic Citation: ‘As Pythagoras proved, two cubes never add up to a cube.’
+    Proof by Personal Conviction: ‘It is my profound belief that the quaternionic pseudo-Mandelbrot set is locally disconnected.’
+    Proof by Lack of Imagination: ‘I can’t think of any reason why it’s false, so it must be true.’
+    Proof by Forward Reference: ‘My proof that the quaternionic pseudo-Mandelbrot set is locally disconnected will appear in a forthcoming paper.’ (Often not as forthcoming as it seemed when the reference was made.)
+    Proof by Example: ‘We prove the case n = 2 and then let 2 = n.’
+    Proof by Outsourcing: ‘Details are left to the reader.’
+    Statement by Outsourcing: ‘Formulation of the correct theorem is left to the reader.’
+    Proof by Unreadable Notation: ‘If you work through the next 500 pages of incredibly dense formulas in six alphabets, you’ll see why it has to be true.’
+    Proof by Authority: ‘I saw Milnor in the cafeteria and he said he thought it’s probably locally disconnected.’
+    Proof by Vague Authority: ‘The quaternionic pseudo-Mandelbrot set is well known to be locally disconnected.’
+    Proof by Provocative Wager: ‘If the quaternionic pseudo-Mandelbrot set is not locally disconnected, I’ll jump off London Bridge wearing a gorilla suit.’
+    Proof by Reduction to the Wrong Problem: ‘To see that the quaternionic pseudo-Mandelbrot set is locally disconnected, we reduce it to Pythagoras’s Theorem.’
+
+Second Thoughts
+
+    ‘This is a one-line proof – if we start sufficiently far to the left.’
